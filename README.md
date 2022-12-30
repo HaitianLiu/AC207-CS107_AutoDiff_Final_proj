@@ -1,7 +1,7 @@
 # Team04 Final Project: AutoDiff Package
  
-[![.github/workflows/test.yml](https://github.com/HaitianLiu/AC207-CS107_final_proj/actions/workflows/test.yml/badge.svg)](https://github.com/HaitianLiu/AC207-CS107_final_proj/actions/workflows/test.yml)
-[![.github/workflows/coverage.yml](https://github.com/HaitianLiu/AC207-CS107_final_proj/actions/workflows/coverage.yml/badge.svg)](https://github.com/HaitianLiu/AC207-CS107_final_proj/actions/workflows/coverage.yml)
+[![.github/workflows/test.yml](https://github.com/HaitianLiu/AC207-CS107_AutoDiff_final_proj/actions/workflows/test.yml/badge.svg)](https://github.com/HaitianLiu/AC207-CS107_AutoDiff_final_proj/actions/workflows/test.yml)
+[![.github/workflows/coverage.yml](https://github.com/HaitianLiu/AC207-CS107_AutoDiff_final_proj/actions/workflows/coverage.yml/badge.svg)](https://github.com/HaitianLiu/AC207-CS107_AutoDiff_final_proj/actions/workflows/coverage.yml)
 
 ## Team 04
 Yixian Gan, Siyao Li, Li Yao, Ting Cheng, Haitian Liu
